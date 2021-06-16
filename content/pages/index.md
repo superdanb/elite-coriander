@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Testing this out
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |+
+      Blah blah blah what do you want blah
+
     actions:
       - label: Try Free
         url: /pricing
