@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Testing this outkl;kl;k
+    title: Testing this outkl;kl;k dfaf asd asd asd as adf asdf asfsf
     subtitle: Optional hero section subtitle
     content: |+
       Blah blah blah what do you want blah
