@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Testing this out###'
+    title: Testing this out
     subtitle: Optional hero section subtitle
     content: |+
       Blah blah blah what do you want blah
