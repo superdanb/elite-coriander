@@ -11,7 +11,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Learn Morefds
         url: /features
         style: secondary
       - label: lorem-ipsum
